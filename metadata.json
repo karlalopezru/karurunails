@@ -1,0 +1,6 @@
+{
+  "name": "Karuru Nails",
+  "description": "Estudio de uñas de autor y boutique e-commerce. Especialistas en Soft Gel, Gelish, Acrílicas y accesorios profesionales.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
